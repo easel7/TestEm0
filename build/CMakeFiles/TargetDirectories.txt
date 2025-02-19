@@ -1,0 +1,8 @@
+/Users/xiongzheng/software/TestEm0/build/CMakeFiles/TestEm0.dir
+/Users/xiongzheng/software/TestEm0/build/CMakeFiles/DirectAccess.dir
+/Users/xiongzheng/software/TestEm0/build/CMakeFiles/edit_cache.dir
+/Users/xiongzheng/software/TestEm0/build/CMakeFiles/rebuild_cache.dir
+/Users/xiongzheng/software/TestEm0/build/CMakeFiles/list_install_components.dir
+/Users/xiongzheng/software/TestEm0/build/CMakeFiles/install.dir
+/Users/xiongzheng/software/TestEm0/build/CMakeFiles/install/local.dir
+/Users/xiongzheng/software/TestEm0/build/CMakeFiles/install/strip.dir
