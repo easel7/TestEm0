@@ -9,7 +9,7 @@
 #
 /run/initialize
 #
-/testem/det/setMat BGO
+/testem/det/setMat G4_BGO
 /gun/particle e-
 /gun/energy 100 GeV
 /run/beamOn 
