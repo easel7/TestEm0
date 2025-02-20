@@ -1,0 +1,15 @@
+/control/verbose 0
+/run/verbose 1
+#
+#/testem/phys/addPhysics local
+/testem/phys/addPhysics emstandard_opt3
+#
+/process/eLoss/verbose 0
+/process/em/printParameters 
+#
+/run/initialize
+#
+/testem/det/setMat G4_BGO
+/gun/particle alpha
+/gun/energy 100 GeV
+/run/beamOn 
